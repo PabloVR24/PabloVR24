@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablovr24/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/PabloVR24)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablo.dart/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+]()
+
+I'm deeply passionate about web and mobile development. I find great joy in creating intuitive and impactful digital experiences. Currently, I'm eager to expand my knowledge and skills in this field and backend development as well. I'm open to learning new technologies and languages as I believe constant learning is essential for growth.
+
+Aside from coding, I also have a strong affinity for music, particularly the energetic beats of Hardwell. There's something about his music that resonates with me and keeps me motivated throughout my coding sessions.
+
 
 ## Skills
 <div align="center">
